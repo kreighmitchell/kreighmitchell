@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ka Reigh Mitchell Gary</h1>
-<h3 align="center">Senior AI Engineer & Applied ML Researcher</h3>
-<p align="center"><i>Agentic systems · Multimodal GenAI · Production ML · Creative Intelligence</i></p>
-
 <p align="center">
-  <a href="mailto:k.reighmitchell@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/kreighmitchell"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/kreighmitchell?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <img src="./media/hero-banner.jpg" alt="header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kreighmitchell?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/kreighmitchell?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=kreighmitchell&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="./media/profile-photo.jpg" width="160" height="160" alt="Ka Reigh Mitchell Gary" />
+</p>
+
+<h1 align="center">Ka Reigh Mitchell Gary</h1>
+<h3 align="center">Senior AI Engineer and Applied ML Researcher</h3>
+<p align="center"><i>Agentic systems · Multimodal GenAI · Production ML · Creative Intelligence</i></p>
+
+<p align="center">
+  <a href="mailto:k.reighmitchell@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/kreighmitchell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kreighmitchell" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kreighmitchell?tab=followers"><img src="https://img.shields.io/badge/Followers-github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Stars-100-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars" />
+  <img src="https://img.shields.io/badge/Profile%20Views-500+-0A66C2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/kreighmitchell"><img src="https://img.shields.io/badge/LinkedIn%20Views-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn Profile" /></a>
 </p>
 
 <p align="center">
@@ -20,82 +29,76 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="./media/section-divider.jpg" alt="" width="60%" />
+</p>
 
-## 🚀 About Me
+## About Me
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-🔭 Building <b>agentic GenAI systems</b> for real workflows
+Building <b>agentic GenAI systems</b> for real workflows
 
-🌱 Deepening <b>multimodal models</b> and evaluation harnesses
+Deepening <b>multimodal models</b> and evaluation harnesses
 
-👯 Open to collaborate on <b>LLM agents</b> and applied research
+Open to collaborate on <b>LLM agents</b> and applied research
 
-💬 Ask me about <b>RL · LLMs · DSP · production ML</b>
+Ask me about <b>RL · LLMs · DSP · production ML</b>
 
 </td>
 <td valign="top" width="50%">
 
-🧠 Focus: <b>research prototype → production systems</b>
+Focus: <b>research prototype to production systems</b>
 
-🛠️ Shipping frameworks like <b>SuperClaude</b> and automation agents
+Shipping frameworks like <b>SuperClaude</b> and automation agents
 
-📫 Email: <a href="mailto:k.reighmitchell@gmail.com">k.reighmitchell@gmail.com</a>
+Email: <a href="mailto:k.reighmitchell@gmail.com">k.reighmitchell@gmail.com</a>
 
-⚡ Fun fact: I treat every repo like a product, not a dump
+Fun fact: I treat every repo like a product, not a dump
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏆 Featured Work
-
 <p align="center">
-  <a href="https://github.com/kreighmitchell/SuperClaude"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=SuperClaude&theme=tokyonight&hide_border=true" alt="SuperClaude" /></a>
-  <a href="https://github.com/kreighmitchell/DocAutomate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=DocAutomate&theme=tokyonight&hide_border=true" alt="DocAutomate" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/kreighmitchell/keras-handbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=keras-handbook&theme=tokyonight&hide_border=true" alt="keras-handbook" /></a>
-  <a href="https://github.com/kreighmitchell/anomaly-kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=anomaly-kit&theme=tokyonight&hide_border=true" alt="anomaly-kit" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/kreighmitchell/deeplearn-notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=deeplearn-notes&theme=tokyonight&hide_border=true" alt="deeplearn-notes" /></a>
-  <a href="https://github.com/kreighmitchell/ahtext-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=ahtext-lab&theme=tokyonight&hide_border=true" alt="ahtext-lab" /></a>
+  <img src="./media/section-divider.jpg" alt="" width="60%" />
 </p>
 
-| Project | What it is |
-|---|---|
-| [SuperClaude](https://github.com/kreighmitchell/SuperClaude) | High-leverage Claude Code configuration framework |
-| [DocAutomate](https://github.com/kreighmitchell/DocAutomate) | Computer-use agents for document automation |
-| [keras-handbook](https://github.com/kreighmitchell/keras-handbook) | Deep learning docs and Keras reference materials |
-| [deeplearn-notes](https://github.com/kreighmitchell/deeplearn-notes) | Research-grade deep learning tutorials |
-| [anomaly-kit](https://github.com/kreighmitchell/anomaly-kit) | Time-series anomaly detection toolkit (R) |
-| [music-som](https://github.com/kreighmitchell/music-som) | SOM clustering for electronic music genres |
-| [audio-dsp-lab](https://github.com/kreighmitchell/audio-dsp-lab) | Signal processing labs for audio intelligence |
-
----
-
-## 🛠️ Tech Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,r,cpp,c,java,js,ts,docker,linux,git,githubactions&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,r,cpp,c,java,js,ts,docker,linux,git,githubactions,fastapi,flask,aws,gcp,kubernetes&perline=10" alt="stack" />
 </p>
 
-```text
-AI/ML     : PyTorch · Keras/TF · Classical ML · Evaluation · Agents/RAG
-Systems   : Python · C/C++ · R · Java · Linux · Docker
-Domains   : LLMs · Multimodal · Anomaly Detection · Audio DSP · HCI
-Practices : Clean architecture · Experiment tracking · Reproducible research
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
----
+<p align="center">
+  <a href="#"><img src="./media/ai-training.jpg" width="140" height="140" alt="AI Training" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="./media/ai-research.jpg" width="140" height="140" alt="AI Research" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="./media/ai-agents.jpg" width="140" height="140" alt="LLM Agents" /></a>
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Training-Model%20Fine--Tuning%20%7C%20RLHF%20%7C%20Eval-111111?style=for-the-badge&labelColor=0D1117" alt="AI Training" />
+  <img src="https://img.shields.io/badge/AI%20Research-Multimodal%20%7C%20Agents%20%7C%20Reasoning-111111?style=for-the-badge&labelColor=0D1117" alt="AI Research" />
+</p>
+
+<p align="center">
+  <img src="./media/section-divider.jpg" alt="" width="60%" />
+</p>
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
@@ -103,21 +106,23 @@ Practices : Clean architecture · Experiment tracking · Reproducible research
   <img src="https://streak-stats.demolab.com/?user=kreighmitchell&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📚 Language Mix
+## Language Mix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark" />
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light" />
 </p>
 
----
+<p align="center">
+  <img src="./media/section-divider.jpg" alt="" width="60%" />
+</p>
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔥 Production-ready **agent frameworks** and computer-use automation
-- 🧠 **Multimodal** learning systems spanning text, audio, and interaction
-- 📈 Reliable ML delivery: evals, guardrails, observability
-- 🎨 Creative-technical systems (DSP, OSC/MIDI, interactive hardware)
+- Production-ready <b>agent frameworks</b> and computer-use automation
+- <b>Multimodal</b> learning systems spanning text, audio, and interaction
+- Reliable ML delivery: evals, guardrails, observability
+- Creative-technical systems (DSP, OSC/MIDI, interactive hardware)
 
 ---
 
@@ -126,4 +131,6 @@ Practices : Clean architecture · Experiment tracking · Reproducible research
   <a href="mailto:k.reighmitchell@gmail.com">k.reighmitchell@gmail.com</a>
   ·
   <a href="https://github.com/kreighmitchell">github.com/kreighmitchell</a>
+  ·
+  <a href="https://www.linkedin.com/in/kreighmitchell">LinkedIn</a>
 </p>
