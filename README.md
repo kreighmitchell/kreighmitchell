@@ -1,78 +1,129 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ka Reigh Mitchell Gary</h1>
+<h3 align="center">Senior AI Engineer & Applied ML Researcher</h3>
+<p align="center"><i>Agentic systems · Multimodal GenAI · Production ML · Creative Intelligence</i></p>
 
-# Ka Reigh Mitchell Gary
-### Senior AI Engineer
+<p align="center">
+  <a href="mailto:k.reighmitchell@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/kreighmitchell"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/kreighmitchell?tab=repositories"><img src="https://img.shields.io/badge/-Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+</p>
 
-Applied machine learning Â· Agentic systems Â· Multimodal GenAI Â· Production ML tooling
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kreighmitchell?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kreighmitchell?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=kreighmitchell&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-k.reighmitchell%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:k.reighmitchell@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kreighmitchell-181717?style=flat-square&logo=github)](https://github.com/kreighmitchell)
-[![Followers](https://img.shields.io/github/followers/kreighmitchell?style=flat-square&logo=github&label=Follow)](https://github.com/kreighmitchell)
-
-</div>
-
----
-
-## Profile
-
-I design and ship **production AI systems** across research and engineering: LLM agents, multimodal models, anomaly detection, and creative/technical tooling.
-
-**Focus areas**
-- Agentic workflows and developer copilots
-- Applied deep learning and evaluation harnesses
-- Multimodal / signal-aware systems (audio, interaction, MIR)
-- Reliable ML delivery: testing, observability, and clean architecture
-
-**Currently**
-- Building agent frameworks and computer-use automation
-- Maintaining applied ML notebooks, anomaly detection kits, and audio DSP labs
-- Exploring research-to-product paths for generative and interactive systems
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kreighmitchell&theme=onedark&no-frame=true&margin-w=8&row=1&column=7" alt="trophies" />
+  </a>
+</p>
 
 ---
 
-## Featured Work
+## 🚀 About Me
 
-| Repository | Role |
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+🔭 Building <b>agentic GenAI systems</b> for real workflows
+
+🌱 Deepening <b>multimodal models</b> and evaluation harnesses
+
+👯 Open to collaborate on <b>LLM agents</b> and applied research
+
+💬 Ask me about <b>RL · LLMs · DSP · production ML</b>
+
+</td>
+<td valign="top" width="50%">
+
+🧠 Focus: <b>research prototype → production systems</b>
+
+🛠️ Shipping frameworks like <b>SuperClaude</b> and automation agents
+
+📫 Email: <a href="mailto:k.reighmitchell@gmail.com">k.reighmitchell@gmail.com</a>
+
+⚡ Fun fact: I treat every repo like a product, not a dump
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Featured Work
+
+<p align="center">
+  <a href="https://github.com/kreighmitchell/SuperClaude"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=SuperClaude&theme=tokyonight&hide_border=true" alt="SuperClaude" /></a>
+  <a href="https://github.com/kreighmitchell/DocAutomate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=DocAutomate&theme=tokyonight&hide_border=true" alt="DocAutomate" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kreighmitchell/keras-handbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=keras-handbook&theme=tokyonight&hide_border=true" alt="keras-handbook" /></a>
+  <a href="https://github.com/kreighmitchell/anomaly-kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=anomaly-kit&theme=tokyonight&hide_border=true" alt="anomaly-kit" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kreighmitchell/deeplearn-notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=deeplearn-notes&theme=tokyonight&hide_border=true" alt="deeplearn-notes" /></a>
+  <a href="https://github.com/kreighmitchell/ahtext-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kreighmitchell&repo=ahtext-lab&theme=tokyonight&hide_border=true" alt="ahtext-lab" /></a>
+</p>
+
+| Project | What it is |
 |---|---|
-| **[SuperClaude](https://github.com/kreighmitchell/SuperClaude)** | Configuration framework for high-leverage Claude Code workflows |
-| **[DocAutomate](https://github.com/kreighmitchell/DocAutomate)** | Computer-use / document automation with agent orchestration |
-| **[keras-handbook](https://github.com/kreighmitchell/keras-handbook)** | Deep learning reference materials and Keras documentation |
-| **[deeplearn-notes](https://github.com/kreighmitchell/deeplearn-notes)** | Deep learning tutorial notes and reproducible examples |
-| **[anomaly-kit](https://github.com/kreighmitchell/anomaly-kit)** | Time-series anomaly detection toolkit (R) |
-| **[music-som](https://github.com/kreighmitchell/music-som)** | Self-organizing maps for electronic music genre clustering |
+| [SuperClaude](https://github.com/kreighmitchell/SuperClaude) | High-leverage Claude Code configuration framework |
+| [DocAutomate](https://github.com/kreighmitchell/DocAutomate) | Computer-use agents for document automation |
+| [keras-handbook](https://github.com/kreighmitchell/keras-handbook) | Deep learning docs and Keras reference materials |
+| [deeplearn-notes](https://github.com/kreighmitchell/deeplearn-notes) | Research-grade deep learning tutorials |
+| [anomaly-kit](https://github.com/kreighmitchell/anomaly-kit) | Time-series anomaly detection toolkit (R) |
+| [music-som](https://github.com/kreighmitchell/music-som) | SOM clustering for electronic music genres |
+| [audio-dsp-lab](https://github.com/kreighmitchell/audio-dsp-lab) | Signal processing labs for audio intelligence |
 
 ---
 
-## Systems & Tooling
+## 🛠️ Tech Stack
 
-| Area | Repositories |
-|---|---|
-| Audio / Creative Tech | [`audio-dsp-lab`](https://github.com/kreighmitchell/audio-dsp-lab) Â· [`vst-keyvalue`](https://github.com/kreighmitchell/vst-keyvalue) Â· [`chuck-plugins`](https://github.com/kreighmitchell/chuck-plugins) Â· [`osc-midi-bridge`](https://github.com/kreighmitchell/osc-midi-bridge) |
-| Interaction / Hardware | [`monome-lib`](https://github.com/kreighmitchell/monome-lib) Â· [`monome-osc-server`](https://github.com/kreighmitchell/monome-osc-server) Â· [`chronome-lab`](https://github.com/kreighmitchell/chronome-lab) Â· [`bricktable-lab`](https://github.com/kreighmitchell/bricktable-lab) |
-| Text / Automation | [`ahtext-lab`](https://github.com/kreighmitchell/ahtext-lab) Â· [`twitter-py-tools`](https://github.com/kreighmitchell/twitter-py-tools) Â· [`social-bots`](https://github.com/kreighmitchell/social-bots) |
-| Environment | [`env-dotfiles`](https://github.com/kreighmitchell/env-dotfiles) Â· [`env-dotfiles-v2`](https://github.com/kreighmitchell/env-dotfiles-v2) |
-
----
-
-## Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,r,cpp,c,java,js,ts,docker,linux,git,githubactions&perline=8" alt="skills" />
+</p>
 
 ```text
-Python Â· PyTorch/Keras Â· R Â· C/C++ Â· Java
-LLM Agents Â· RAG Â· Evaluation Â· MLOps basics
-Audio DSP Â· OSC/MIDI Â· Creative Systems
+AI/ML     : PyTorch · Keras/TF · Classical ML · Evaluation · Agents/RAG
+Systems   : Python · C/C++ · R · Java · Linux · Docker
+Domains   : LLMs · Multimodal · Anomaly Detection · Audio DSP · HCI
+Practices : Clean architecture · Experiment tracking · Reproducible research
 ```
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kreighmitchell&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=111111&icon_color=0366d6&text_color=333333" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=111111&text_color=333333" alt="languages" />
-</div>
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-**Open to collaboration** on applied GenAI, agent platforms, and research engineering.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kreighmitchell&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="languages" />
+</p>
 
-`k.reighmitchell@gmail.com`
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kreighmitchell&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kreighmitchell&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 Production-ready **agent frameworks** and computer-use automation
+- 🧠 **Multimodal** learning systems spanning text, audio, and interaction
+- 📈 Reliable ML delivery: evals, guardrails, observability
+- 🎨 Creative-technical systems (DSP, OSC/MIDI, interactive hardware)
+
+---
+
+<p align="center">
+  <b>Let's build intelligent systems that ship.</b><br/>
+  <a href="mailto:k.reighmitchell@gmail.com">k.reighmitchell@gmail.com</a>
+  ·
+  <a href="https://github.com/kreighmitchell">github.com/kreighmitchell</a>
+</p>
