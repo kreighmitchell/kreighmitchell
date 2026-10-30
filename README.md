@@ -72,17 +72,21 @@ Fun fact: <b>I treat every repo like a product</b>
 
 ## GitHub Stats
 
-<!-- Live widgets: refresh from GitHub API (followers, stars, commits, PRs, languages, streak) -->
+<!-- Live API cards — stars, commits, PRs, languages, streak update automatically -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kreighmitchell&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kreighmitchell&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=600" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=600" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kreighmitchell&theme=tokyonight" height="200" alt="Profile Details" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kreighmitchell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Generated deep stats (stars/forks/LOC/views) — auto-rebuilds every 6 hours -->
+<!-- Deep generated stats — rebuilt every 6 hours from your account -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
