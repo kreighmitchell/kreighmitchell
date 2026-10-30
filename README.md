@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/tony363?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tony363?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=tony363&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kreighmitchell?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kreighmitchell?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=kreighmitchell&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="trophies" />
+    <img src="https://github-trophies.vercel.app/?username=kreighmitchell&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="trophies" />
   </a>
 </p>
 
@@ -98,16 +98,18 @@ Practices : Clean architecture · Experiment tracking · Reproducible research
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://streak-stats.demolab.com/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kreighmitchell&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kreighmitchell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📚 Language Mix
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark" />
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kreighmitchell&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 </p>
 
 ---
