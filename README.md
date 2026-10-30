@@ -1,64 +1,51 @@
-<h1 align="center">Hi 👋, I'm Tony Siu</h1>
-<h3 align="center">Multi-Modal GenAI Engineer & Researcher</h3>
+<h1 align="center">Hi 👋, I'm Ka Reigh Mitchell Gary</h1>
+<h3 align="center">Builder · Researcher · Creative Technologist</h3>
 
 <p align="center">
-  <a href="https://twitter.com/pysolver33" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/pysolver33?logo=twitter&style=for-the-badge" alt="pysolver33" /></a>
-  <a href="https://linkedin.com/in/pysolver" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pysolver" /></a>
-  <a href="mailto:pysolver33@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:k.reighmitchell@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/kreighmitchell"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/tony363?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tony363?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=tony363&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kreighmitchell?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=kreighmitchell&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=tony363&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="tony363 trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kreighmitchell&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ## 🚀 About Me
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+- 🔭 Working across **ML, audio DSP, creative tools, and agentic coding**
+- 🌱 Exploring **deep learning notebooks, anomaly detection, and interaction systems**
+- 💬 Ask me about **applied ML, signal processing, and developer tooling**
+- ⚡ Based in the **United States**
+- 📫 Reach me at **k.reighmitchell@gmail.com**
 
-🔭 Working on **ACE Promptless UI Action Recommendation**
+## 🧩 Featured Projects
 
-🌱 Learning **Computer Use & Browser Use Agents**
+| Project | Focus |
+| --- | --- |
+| [ahtext-lab](https://github.com/kreighmitchell/ahtext-lab) | Text utilities and experiments |
+| [anomaly-kit](https://github.com/kreighmitchell/anomaly-kit) | Time-series anomaly detection in R |
+| [audio-dsp-lab](https://github.com/kreighmitchell/audio-dsp-lab) | Audio signal processing notes & experiments |
+| [deeplearn-notes](https://github.com/kreighmitchell/deeplearn-notes) | Deep learning tutorials and example code |
+| [keras-handbook](https://github.com/kreighmitchell/keras-handbook) | Keras documentation materials |
+| [music-som](https://github.com/kreighmitchell/music-som) | SOM clustering for electronic music genres |
+| [SuperClaude](https://github.com/kreighmitchell/SuperClaude) | Claude Code productivity framework |
+| [DocAutomate](https://github.com/kreighmitchell/DocAutomate) | Computer-use / agent automation workflows |
 
-👯 Collaborating on **SuperClaude 100x Developer Frameworks**
+## 🛠️ Tech Interests
 
-💬 Ask me about **Reinforcement Learning & Gen AI & Applied Statistics**
+`Python` · `R` · `C/C++` · `Machine Learning` · `Audio DSP` · `OSC/MIDI` · `Developer Tooling` · `Automation`
 
-</td>
-<td align="center" width="50%">
-
-🤝 Seeking help with **UX Production Ready Engineering**
-
-📝 Writing on [X/Twitter](https://x.com/pysolver33)
-
-📄 [View My Resume](https://drive.google.com/file/d/116AOY9gdQSEvq_2ClDNF00XB5ZEUWbKf/view?usp=sharing)
-
-⚡ Fun fact: **I only need to eat 3 times per week**
-
-</td>
-</tr>
-</table>
-
-## 📊 GitHub Stats
+## 📊 Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://streak-stats.demolab.com/?user=tony363&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
-## 📚 Language Mix
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark" />
-  <img src="https://raw.githubusercontent.com/tony363/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light" />
-</p>
+<p align="center">Thanks for visiting — feel free to explore the repos and say hi.</p>
