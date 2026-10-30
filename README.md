@@ -9,13 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kreighmitchell?tab=followers"><img src="https://img.shields.io/badge/Followers%20%C2%B7%200-181717?style=for-the-badge&logo=github&logoColor=white" alt="Followers" /></a>
-  <a href="https://github.com/kreighmitchell?tab=repositories&type=source&sort=stargazers"><img src="https://img.shields.io/badge/Stars%20%C2%B7%206-181717?style=for-the-badge&logo=github&logoColor=white" alt="Stars" /></a>
-  <img src="https://img.shields.io/badge/Profile%20Views%20%C2%B7%20500+-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/kreighmitchell"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-trophies.vercel.app/?username=kreighmitchell&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" alt="trophies" />
   </a>
