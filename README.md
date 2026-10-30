@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kreighmitchell?tab=followers"><img src="https://img.shields.io/badge/Followers-github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" /></a>
+  <a href="https://github.com/kreighmitchell?tab=followers"><img src="https://img.shields.io/github/followers/kreighmitchell?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=0D1117" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Stars-100-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Stars" />
   <img src="https://img.shields.io/badge/Profile%20Views-500+-0A66C2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/kreighmitchell"><img src="https://img.shields.io/badge/LinkedIn%20Views-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn Profile" /></a>
