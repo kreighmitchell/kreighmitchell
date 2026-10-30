@@ -72,13 +72,21 @@ Fun fact: <b>I treat every repo like a product</b>
 
 ## GitHub Stats
 
+<!-- Live widgets: refresh from GitHub API (followers, stars, commits, PRs, languages, streak) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kreighmitchell&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreighmitchell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kreighmitchell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Generated deep stats (stars/forks/LOC/views) — auto-rebuilds every 6 hours -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark" />
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://streak-stats.demolab.com/?user=kreighmitchell&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
-## Language Mix
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kreighmitchell/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark" />
