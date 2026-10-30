@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kreighmitchell?tab=followers"><img src="https://img.shields.io/github/followers/kreighmitchell?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Stars-100-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/Profile%20Views-500+-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/kreighmitchell"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+  <a href="https://github.com/kreighmitchell?tab=followers"><img src="https://img.shields.io/badge/Followers-248-181717?style=for-the-badge&logo=github&logoColor=white" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Stars-486-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Profile%20Views-3.2k+-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/kreighmitchell"><img src="https://img.shields.io/badge/LinkedIn-1.4k-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 </p>
 
 <p align="center">
